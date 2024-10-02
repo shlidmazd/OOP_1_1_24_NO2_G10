@@ -9,8 +9,8 @@ import javax.mail.internet.*;
 
 public class MailService {
 
-    private final String username = "";
-    private final String password = "";
+    private final String username = "22010063@st.phenikaa-uni.edu.vn";
+    private final String password = "siaa nfmf evsv ljpu";
     private final Properties prop;
     private final ExecutorService executor;
 
