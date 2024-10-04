@@ -6,8 +6,9 @@ GROUP_06-OOP-N03
 
 # Hệ Thống Quản Lý Thư Viện
 
-## Giới Thiệu Dự Án
+## Giới Thiệu, Mô Tả Dự Án
 Dự án này là một hệ thống quản lý thư viện, giúp tối ưu hóa và cải thiện hoạt động của thư viện. Hệ thống cho phép quản lý các loại sách, các hoạt động mượn và trả sách.
+Dự án sử dụng maven để quản lý thư viện.
 
 ## Chức năng chính
   - Có chức năng quản lý sách. Có thể thêm, sửa, xóa và tìm các loại sách.
@@ -58,3 +59,8 @@ Dự án này là một hệ thống quản lý thư viện, giúp tối ưu hó
 ## Cách Cài Đặt
 1. Clone repository từ GitHub:
    ```bash
+
+## Cài database SQL
+Do đã cài trước database trong quá trình làm project, nên nhóm em sẽ để ảnh demo lúc import database và connect database từ mySQL.
+![UML](./img/importdatabase.png)
+![UML](./img/connectdatabase.png)
