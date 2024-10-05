@@ -64,3 +64,4 @@ Dự án sử dụng maven để quản lý thư viện.
 Do đã cài trước database trong quá trình làm project, nên nhóm em sẽ để ảnh demo lúc import database và connect database từ mySQL.
 ![UML](./img/importdatabase.png)
 ![UML](./img/connectdatabase.png)
+## File csdl db.sql đã được import và connect vào project
