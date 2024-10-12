@@ -52,11 +52,11 @@ Dự án sử dụng maven để quản lý thư viện.
 
 ![UML](./img/borrowrequested.png)
 
-## Giao diện đầu tiên của dự án
+## First Login Project screen
 
 ![firstscreen](./img/firstscreen.png)
 
-## Cách Cài Đặt
+## Setup (Cài đặt)
 1. Clone repository từ GitHub:
    ```bash
 
