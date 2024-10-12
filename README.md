@@ -36,7 +36,7 @@ Dự án sử dụng maven để quản lý thư viện.
 
 ![UML](./img/bookrequested.png)
 
-## 1.2.4 User Management (for librarian role)
+## 1.2.4 User Management For Borrowing Books (for librarian role)
 
 ![UML](./img/usermanagement.png)
 
