@@ -60,7 +60,7 @@ Dự án sử dụng maven để quản lý thư viện.
 1. Clone repository từ GitHub:
    ```bash
 
-## Cài database SQL
+## Database setup (Cài database SQL)
 Do đã cài trước database trong quá trình làm project, nên nhóm em sẽ để ảnh demo lúc import database và connect database từ mySQL.
 ![UML](./img/importdatabase.png)
 ![UML](./img/connectdatabase.png)
