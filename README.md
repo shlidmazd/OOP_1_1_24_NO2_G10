@@ -48,7 +48,7 @@ Dự án sử dụng maven để quản lý thư viện.
 
 ![UML](./img/userprofile.png)
 
-## 1.2.7 Borrow Requested (for reader role)
+## 1.2.7 Borrow Request (for reader role)
 
 ![UML](./img/borrowrequested.png)
 
